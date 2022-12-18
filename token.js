@@ -1,4 +1,4 @@
-export var list = [
+var list = [
                 "BTCUSDT",
                 "ETHUSDT",
                 "BNBUSDT",
