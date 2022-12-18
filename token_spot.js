@@ -1,4 +1,5 @@
-var list = [
+var list = 
+    [
     "BTCUSDT",
     "ETHUSDT",
     "BNBUSDT",
@@ -349,4 +350,4 @@ var list = [
     "HFTUSDT",
     "HOOKUSDT",
     "MAGICUSDT"
-]
+];
