@@ -59,7 +59,7 @@ var list = [
                 "CHZUSDT",
                 "BANDUSDT",
                 "BUSDUSDT",
-                "BEAMUSDT",
+                "BEAMUSDT", 
                 "XTZUSDT",
                 "RENUSDT",
                 "RVNUSDT",
