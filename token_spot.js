@@ -303,7 +303,6 @@ var list =
     "ALPINEUSDT",
     "TUSDT",
     "ASTRUSDT",
-    "NBTUSDT",
     "GMTUSDT",
     "KDAUSDT",
     "APEUSDT",
