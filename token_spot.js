@@ -31,7 +31,7 @@ var list =
     "CELRUSDT",
     "DASHUSDT",
     "OMGUSDT",
-    "THETAUSDT",
+    "THETAUSDT", 
     "ENJUSDT",
     "MATICUSDT",
     "ATOMUSDT",
