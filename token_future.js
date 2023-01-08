@@ -151,4 +151,4 @@ var list =
     "APTUSDT",
     "QNTUSDT",
     "BLUEBIRDUSDT"
-];
+]; 
