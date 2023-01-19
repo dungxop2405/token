@@ -150,5 +150,7 @@ var list =
     "PHBBUSD",
     "APTUSDT",
     "QNTUSDT",
-    "BLUEBIRDUSDT"
+    "BLUEBIRDUSDT",
+    "FETUSDT",
+    "AGIXBUSD"
 ]; 
