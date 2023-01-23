@@ -348,4 +348,3 @@ var list =
     "HIFIUSDT",
     "RPLUSDT"
 ];
- 
