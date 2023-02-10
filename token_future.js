@@ -153,5 +153,11 @@ var list =
     "BLUEBIRDUSDT",
     "FETUSDT",
     "AGIXBUSD",
-    "FXSUSDT"
+    "FXSUSDT",
+    "HOOKUSDT",
+    "MAGICUSDT",
+    "TUSDT",
+    "RNDRUSDT",
+    "HIGHUSDT",
+    "MINAUSDT"
 ]; 
