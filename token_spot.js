@@ -49,7 +49,6 @@ var list =
     "TOMOUSDT",
     "PERLUSDT",
     "DENTUSDT",
-    "KEYUSDT",
     "DOCKUSDT",
     "WANUSDT",
     "FUNUSDT",
@@ -318,7 +317,7 @@ var list =
     "LUNCUSDT",
     "USTCBUSD",
     "OPUSDT",
-    "GTOBUSD",
+    "KEYBUSD",
     "WBTCBUSD",
     "LEVERUSDT",
     "GLMBUSD",
@@ -345,5 +344,6 @@ var list =
     "HOOKUSDT",
     "MAGICUSDT",
     "HIFIUSDT",
-    "RPLUSDT"
+    "RPLUSDT",
+    "GFTBUSD"
 ];
