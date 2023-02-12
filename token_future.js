@@ -162,3 +162,4 @@ var list_future =
     "MINAUSDT"
 ]; 
 module.exports = list_future;
+ 
