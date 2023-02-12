@@ -1,4 +1,4 @@
-var list = 
+var list_future = 
     [
     "BTCUSDT",
     "ETHUSDT",
@@ -161,3 +161,4 @@ var list =
     "HIGHUSDT",
     "MINAUSDT"
 ]; 
+module.exports = list_future;
