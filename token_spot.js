@@ -1,4 +1,4 @@
-var list =
+var list_spot =
     [
     "BTCUSDT",
     "ETHUSDT",
@@ -347,3 +347,4 @@ var list =
     "RPLUSDT",
     "GFTBUSD"
 ];
+module.exports = list_spot;
