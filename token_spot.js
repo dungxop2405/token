@@ -348,3 +348,4 @@ var list_spot =
     "GFTBUSD"
 ];
 module.exports = list_spot;
+ 
