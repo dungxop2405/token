@@ -139,7 +139,6 @@ const token_future = (() => {
     "OPUSDT",
     "TLMBUSD",
     "ICPUSDT",
-    "CVXUSDT",
     "LEVERBUSD",
     "LDOUSDT",
     "INJUSDT",
@@ -148,6 +147,7 @@ const token_future = (() => {
     "SPELLUSDT",
     "AMBBUSD",
     "PHBUSDT",
+    "CVXUSDT",
     "APTUSDT",
     "QNTUSDT",
     "BLUEBIRDUSDT",
@@ -167,7 +167,12 @@ const token_future = (() => {
     "COCOSUSDT",
     "BNXUSDT",
     "ACHUSDT",
-    "SSVUSDT"
+    "SSVUSDT",
+    "CKBUSDT",
+    "PERPUSDT",
+    "TRUUSDT",
+    "LQTYUSDT",
+    "USDCUSDT"
 ];
 
     // các chức năng công khai
