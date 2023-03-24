@@ -56,7 +56,6 @@ const token_future = (() => {
     "UNIUSDT",
     "AVAXUSDT",
     "FTMUSDT",
-    "HNTUSDT",
     "ENJUSDT",
     "FLMUSDT",
     "TOMOUSDT",
@@ -135,19 +134,19 @@ const token_future = (() => {
     "GALUSDT",
     "DODOBUSD",
     "1000LUNCUSDT",
-    "LUNA2USDT",
     "OPUSDT",
     "TLMBUSD",
-    "ICPUSDT",
     "LEVERBUSD",
     "LDOUSDT",
     "INJUSDT",
     "STGUSDT",
     "FOOTBALLUSDT",
     "SPELLUSDT",
+    "LUNA2USDT",
     "AMBBUSD",
     "PHBUSDT",
     "CVXUSDT",
+    "ICPUSDT",
     "APTUSDT",
     "QNTUSDT",
     "BLUEBIRDUSDT",
@@ -172,7 +171,9 @@ const token_future = (() => {
     "PERPUSDT",
     "TRUUSDT",
     "LQTYUSDT",
-    "USDCUSDT"
+    "USDCUSDT",
+    "IDUSDT",
+    "ARBUSDT"
 ];
 
     // các chức năng công khai
