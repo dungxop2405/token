@@ -349,7 +349,9 @@ const token_spot = (() => {
     "GFTBUSD",
     "GNSUSDT",
     "SYNUSDT",
-    "LQTYUSDT"
+    "LQTYUSDT",
+    "IDUSDT",
+    "ARBUSDT"
 ];
 
     // các chức năng công khai
