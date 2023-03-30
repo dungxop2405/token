@@ -173,7 +173,8 @@ const token_future = (() => {
     "LQTYUSDT",
     "USDCUSDT",
     "IDUSDT",
-    "ARBUSDT"
+    "ARBUSDT",
+    "JOEUSDT"
 ];
 
     // các chức năng công khai
