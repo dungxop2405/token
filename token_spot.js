@@ -229,7 +229,6 @@ const token_spot = (() => {
     "ATAUSDT",
     "GTCUSDT",
     "TORNBUSD",
-    "HNTBUSD",
     "FTTBUSD",
     "ERNUSDT",
     "KLAYUSDT",
@@ -302,7 +301,6 @@ const token_spot = (() => {
     "ALPINEUSDT",
     "TUSDT",
     "ASTRUSDT",
-    "NBTUSDT",
     "GMTUSDT",
     "KDAUSDT",
     "APEUSDT",
@@ -326,7 +324,7 @@ const token_spot = (() => {
     "STGUSDT",
     "ARKBUSD",
     "BETHUSDT",
-    "LOOMBUSD",
+    "LOOMUSDT",
     "SNMBUSD",
     "AMBUSDT",
     "PHBUSDT",
@@ -351,7 +349,9 @@ const token_spot = (() => {
     "SYNUSDT",
     "LQTYUSDT",
     "IDUSDT",
-    "ARBUSDT"
+    "ARBUSDT",
+    "OAXUSDT",
+    "RDNTUSDT"
 ];
 
     // các chức năng công khai
