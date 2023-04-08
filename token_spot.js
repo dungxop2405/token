@@ -1,6 +1,6 @@
 const token_spot = (() => {
     var list =
-        [
+    [
     "BTCUSDT",
     "ETHUSDT",
     "BNBUSDT",
