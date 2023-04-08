@@ -1,6 +1,6 @@
 const token_future = (() => {
     var list =
-        [
+    [
     "BTCUSDT",
     "ETHUSDT",
     "BCHUSDT",
@@ -135,15 +135,12 @@ const token_future = (() => {
     "DODOBUSD",
     "1000LUNCUSDT",
     "OPUSDT",
-    "TLMBUSD",
-    "LEVERBUSD",
     "LDOUSDT",
     "INJUSDT",
     "STGUSDT",
     "FOOTBALLUSDT",
     "SPELLUSDT",
     "LUNA2USDT",
-    "AMBBUSD",
     "PHBUSDT",
     "CVXUSDT",
     "ICPUSDT",
@@ -174,7 +171,12 @@ const token_future = (() => {
     "USDCUSDT",
     "IDUSDT",
     "ARBUSDT",
-    "JOEUSDT"
+    "JOEUSDT",
+    "TLMUSDT",
+    "AMBUSDT",
+    "LEVERUSDT",
+    "RDNTUSDT",
+    "HFTUSDT"
 ];
 
     // các chức năng công khai
