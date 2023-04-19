@@ -141,7 +141,6 @@ const token_future = (() => {
     "FOOTBALLUSDT",
     "SPELLUSDT",
     "LUNA2USDT",
-    "PHBUSDT",
     "CVXUSDT",
     "ICPUSDT",
     "APTUSDT",
@@ -157,6 +156,7 @@ const token_future = (() => {
     "HIGHUSDT",
     "MINAUSDT",
     "ASTRUSDT",
+    "PHBUSDT",
     "GMXUSDT",
     "CFXUSDT",
     "STXUSDT",
@@ -176,7 +176,8 @@ const token_future = (() => {
     "AMBUSDT",
     "LEVERUSDT",
     "RDNTUSDT",
-    "HFTUSDT"
+    "HFTUSDT",
+    "XVSUSDT"
 ];
 
     // các chức năng công khai
