@@ -177,7 +177,9 @@ const token_future = (() => {
     "LEVERUSDT",
     "RDNTUSDT",
     "HFTUSDT",
-    "XVSUSDT"
+    "XVSUSDT",
+    "BLURUSDT",
+    "EDUUSDT"
 ];
 
     // các chức năng công khai
