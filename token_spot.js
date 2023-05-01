@@ -316,7 +316,7 @@ const token_spot = (() => {
     "LUNCUSDT",
     "USTCUSDT",
     "OPUSDT",
-    "WBTCBUSD",
+    "WBTCUSDT",
     "LEVERUSDT",
     "GLMUSDT",
     "SSVUSDT",
@@ -349,7 +349,8 @@ const token_spot = (() => {
     "IDUSDT",
     "ARBUSDT",
     "OAXUSDT",
-    "RDNTUSDT"
+    "RDNTUSDT",
+    "EDUUSDT"
 ];
 
     // các chức năng công khai
