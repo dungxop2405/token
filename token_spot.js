@@ -350,7 +350,8 @@ const token_spot = (() => {
     "ARBUSDT",
     "OAXUSDT",
     "RDNTUSDT",
-    "EDUUSDT"
+    "EDUUSDT",
+    "SUIUSDT"
 ];
 
     // các chức năng công khai
