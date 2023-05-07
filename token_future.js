@@ -181,7 +181,9 @@ const token_future = (() => {
     "BLURUSDT",
     "EDUUSDT",
     "IDEXUSDT",
-    "SUIUSDT"
+    "SUIUSDT",
+    "1000PEPEUSDT",
+    "1000FLOKIUSDT"
 ];
 
     // các chức năng công khai
