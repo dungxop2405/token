@@ -156,7 +156,7 @@ const token_spot = (() => {
     "NEARUSDT",
     "FILUSDT",
     "INJUSDT",
-    "AERGOBUSD",
+    "AERGOUSDT",
     "AUDIOUSDT",
     "CTKUSDT",
     "AKROUSDT",
@@ -351,7 +351,9 @@ const token_spot = (() => {
     "OAXUSDT",
     "RDNTUSDT",
     "EDUUSDT",
-    "SUIUSDT"
+    "SUIUSDT",
+    "PEPEUSDT",
+    "FLOKIUSDT"
 ];
 
     // các chức năng công khai
