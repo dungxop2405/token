@@ -160,7 +160,6 @@ const token_future = (() => {
     "GMXUSDT",
     "CFXUSDT",
     "STXUSDT",
-    "COCOSUSDT",
     "BNXUSDT",
     "ACHUSDT",
     "SSVUSDT",
@@ -185,7 +184,8 @@ const token_future = (() => {
     "1000PEPEUSDT",
     "1000FLOKIUSDT",
     "UMAUSDT",
-    "RADUSDT"
+    "RADUSDT",
+    "KEYUSDT"
 ];
 
     // các chức năng công khai
