@@ -332,7 +332,7 @@ const token_spot = (() => {
     "VIBUSDT",
     "GMXUSDT",
     "AGIXUSDT",
-    "SNTBUSD",
+    "SNTUSDT",
     "POLYXUSDT",
     "APTUSDT",
     "QKCUSDT",
@@ -353,7 +353,8 @@ const token_spot = (() => {
     "EDUUSDT",
     "SUIUSDT",
     "PEPEUSDT",
-    "FLOKIUSDT"
+    "FLOKIUSDT",
+    "ASTUSDT"
 ];
 
     // các chức năng công khai
