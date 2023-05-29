@@ -47,7 +47,6 @@ const token_spot = (() => {
     "ANKRUSDT",
     "WINUSDT",
     "COSUSDT",
-    "COCOSUSDT",
     "MTLUSDT",
     "TOMOUSDT",
     "PERLUSDT",
