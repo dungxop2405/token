@@ -185,7 +185,8 @@ const token_future = (() => {
     "1000FLOKIUSDT",
     "UMAUSDT",
     "RADUSDT",
-    "KEYUSDT"
+    "KEYUSDT",
+    "COMBOUSDT"
 ];
 
     // các chức năng công khai
