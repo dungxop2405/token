@@ -110,7 +110,6 @@ const token_spot = (() => {
     "RUNEUSDT",
     "MANAUSDT",
     "DCRUSDT",
-    "AUDUSDT",
     "FIOUSDT",
     "AVAUSDT",
     "BALUSDT",
@@ -353,7 +352,8 @@ const token_spot = (() => {
     "SUIUSDT",
     "PEPEUSDT",
     "FLOKIUSDT",
-    "ASTUSDT"
+    "ASTUSDT",
+    "COMBOUSDT"
 ];
 
     // các chức năng công khai
