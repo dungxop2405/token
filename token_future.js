@@ -186,7 +186,10 @@ const token_future = (() => {
     "UMAUSDT",
     "RADUSDT",
     "KEYUSDT",
-    "COMBOUSDT"
+    "COMBOUSDT",
+    "NMRUSDT",
+    "MAVUSDT",
+    "MDTUSDT"
 ];
 
     // các chức năng công khai
