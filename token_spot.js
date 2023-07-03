@@ -353,7 +353,8 @@ const token_spot = (() => {
     "PEPEUSDT",
     "FLOKIUSDT",
     "ASTUSDT",
-    "COMBOUSDT"
+    "COMBOUSDT",
+    "MAVUSDT"
 ];
 
     // các chức năng công khai
